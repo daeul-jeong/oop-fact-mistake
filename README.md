@@ -3,3 +3,4 @@
 
  
 [01장: 협력하는 객체들의 공동체](https://github.com/daeul-jeong/oop-fact-mistake/blob/main/ch1.md "01장: 협력하는 객체들의 공동체")
+[02장: 이상한 나라의 객체](https://github.com/daeul-jeong/oop-fact-mistake/blob/main/ch2.md "02장: 이상한 나라의 객체")

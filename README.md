@@ -10,7 +10,7 @@
 [06장: 객체 지도](https://github.com/daeul-jeong/oop-fact-mistake/blob/main/ch6-객체지도.md "06장: 객체 지도")<br>
 
 #### todo 
-[07장: 함께 모으기  ](https://github.com/daeul-jeong/oop-fact-mistake/blob/main/ch7.md "07장: 함께 모으기  ")
+[07장: 함께 모으기  ](https://github.com/daeul-jeong/oop-fact-mistake/blob/main/ch7-함께모으기.md "07장: 함께 모으기  ")
 
 
 

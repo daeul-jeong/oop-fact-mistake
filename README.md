@@ -8,9 +8,11 @@
 [04장: 역할, 책임, 협력](https://github.com/daeul-jeong/oop-fact-mistake/blob/main/ch4.md "04장: 역할, 책임, 협력")<br>
 [05장: 책임과 메시지](https://github.com/daeul-jeong/oop-fact-mistake/blob/main/ch5.md "05장: 책임과 메시지")<br>
 [06장: 객체 지도](https://github.com/daeul-jeong/oop-fact-mistake/blob/main/ch6-객체지도.md "06장: 객체 지도")<br>
+[07장: 함께 모으기  ](https://github.com/daeul-jeong/oop-fact-mistake/blob/main/ch7-함께모으기.md "07장: 함께 모으기  ")
 
 #### todo 
-[07장: 함께 모으기  ](https://github.com/daeul-jeong/oop-fact-mistake/blob/main/ch7-함께모으기.md "07장: 함께 모으기  ")
+[부록: 추상화 기법  ](https://github.com/daeul-jeong/oop-fact-mistake/blob/main/부록-추상화기법.md "부록: 추상화 기법  ")
+
 
 
 
